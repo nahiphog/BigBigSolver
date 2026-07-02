@@ -8,5 +8,7 @@ June 30 2026:
 1. Changed the title of this website to "Solver Sanctuary", as per the suggestion from a YouTube user.
 
 June 01 2026 to June 29 2026:
-1. Added over 15 solvers into the site.
-2. Added the About page and the FAQ page.
+1. Created this page.
+2. Added over 15 solvers into the site.
+3. Added the About page and the FAQ page.
+
