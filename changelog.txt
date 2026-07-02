@@ -1,0 +1,12 @@
+July 02 2026:
+1. Rectified and reuploaded the solvers "Flipping letters" and "Splitle".
+2. Fixed the feedback form bug.
+3. Added a changelog page.
+
+  
+June 30 2026:
+1. Changed the title of this website to "Solver Sanctuary", as per the suggestion from a YouTube user.
+
+June 01 2026 to June 29 2026:
+1. Added over 15 solvers into the site.
+2. Added the About page and the FAQ page.
