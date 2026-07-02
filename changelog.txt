@@ -2,6 +2,7 @@ July 02 2026:
 1. Rectified and reuploaded the solvers "Flipping letters" and "Splitle".
 2. Fixed the feedback form bug.
 3. Added a changelog page.
+4. Added the "Blunderwall" solver.
 
   
 June 30 2026:
