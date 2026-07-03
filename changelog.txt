@@ -1,5 +1,5 @@
 July 03 2026:
-1. Add the "Double Dabble" solver.
+1. Added the "Double Dabble" solver.
 
 July 02 2026:
 1. Rectified and reuploaded the solvers "Flipping letters" and "Splitle".
