@@ -1,7 +1,6 @@
 July 4 2026
 1. Added the "Wrdl" solver.
 2. Added the "Disjoint groups" toggle for the "Sudoku (variation)" solver.
-3. Afefefeef
 
 July 03 2026:
 1. Added the "Double Dabble" solver.
