@@ -1,10 +1,24 @@
+PENDING
+####################
+Pandergram: https://onelook.com/pandergram
+Issue: Too long words not in database
+
+One-up / Sections: 
+https://www.sectionspuzzle.com/ 
+https://www.oneuppuzzle.com/
+Still figuring out how to backtrack this.
+
+
+
+
+
 REJECTED
 #####################
 
-Crissle Crossle: https://crisslecrossle.com/
-Horsle:  https://cabletwo.net/horsle/
+1. Crissle Crossle: https://crisslecrossle.com/
+2. Horsle:  https://cabletwo.net/horsle/
 
-All connections
-All crosswords
-All geography related
-All pokemon related
+3. All connections
+4. All crosswords
+5. All geography related
+6. All pokemon related
