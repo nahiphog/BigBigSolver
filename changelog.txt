@@ -1,3 +1,12 @@
+July 14 2026:
+- Improved the [Threepeat] solver.
+
+July 16 2026
+1. Added the "Sort by word commonness" feature.
+
+July 18 2026
+1. Added the "Star Battle" solver.
+
 July 4 2026
 1. Added the "Wrdl" solver.
 2. Added the "Disjoint groups" toggle for the "Sudoku (variation)" solver.
